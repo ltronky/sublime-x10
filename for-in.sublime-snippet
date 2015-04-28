@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[for (${1} in ${2})]]></content>
+    <tabTrigger>for</tabTrigger>
+    <scope>source.x10</scope>
+    <description>for-in</description>
+</snippet>

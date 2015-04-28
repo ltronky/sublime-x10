@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[public static def main(args:Rail[String]) {
+  $1
+}]]></content>
+    <tabTrigger>main</tabTrigger>
+    <scope>source.x10</scope>
+    <description>main</description>
+</snippet>
